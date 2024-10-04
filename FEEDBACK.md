@@ -50,5 +50,6 @@
     - **YES-NO**
 
 ### Comments on the grading
-- 
-### Grade: 
+- There is no python code to grade here
+- I belive you may have forgotten to commit and push your python file
+### Grade: R
